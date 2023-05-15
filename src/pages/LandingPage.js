@@ -20,7 +20,7 @@ function LandingPage (props)
         <div className={classes.mainContainer}>
             <Title />
             <p style={{fontSize: "26px"}}>Affordable, Immediate, Accurate.</p>
-            <p>Examon AI is an innovative and powerful educational tool designed to help you excel in your IB exams. Using AI technology, Examon provides an unlimited bank of IB exam-style questions, mark schemes, model answers, and provides personalized feedback on your answers!</p>
+            <p>Examon AI is an innovative and powerful educational tool designed to help you excel in your IB exams. Using AI technology, Examon provides an unlimited bank of IB exam-style questions, mark schemes, model answers, and provides personalized feedback on your answers.</p>
 
             <br />
             <br />
