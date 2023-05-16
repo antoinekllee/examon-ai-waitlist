@@ -29,6 +29,7 @@
 .logo
 {
     margin-left: 12px;
-    width: 45px;
-    height: 45px;
+    width: 60px;
+    height: 60px;
+    vertical-align: -10px;
 }
