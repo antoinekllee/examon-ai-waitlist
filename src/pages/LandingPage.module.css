@@ -2,11 +2,29 @@
 {
     height: 100vh;
     width: 60vw;
-
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+}
+
+/* CSS Media Query for Mobile Devices */
+@media (max-width: 768px) {
+    .mainContainer {
+        padding-top: 75px;
+        padding-bottom: 150px;
+        width: 90vw;
+        margin: 0 auto;
+    }
+}
+
+/* CSS Media Query for Landscape Mode */
+@media (max-width: 768px) and (orientation: landscape) {
+    .mainContainer {
+        height: auto;
+        padding-top: 15px;
+        padding-bottom: 75px;
+    }
 }
 
 .buttons

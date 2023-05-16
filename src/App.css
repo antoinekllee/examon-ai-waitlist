@@ -7,9 +7,16 @@ body
   font-family: 'Lexend Deca', sans-serif;
   background-color: var(--bg);
   overflow-x: hidden;
-
   margin-left: 20vw;
   margin-right: 20vw;
+}
+
+/* CSS Media Query for Mobile Devices */
+@media (max-width: 768px) {
+  body {
+    margin-left: 5vw;
+    margin-right: 5vw;
+  }
 }
 
 p
