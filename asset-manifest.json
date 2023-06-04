@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.a196b43a.css",
-    "main.js": "/static/js/main.2fc562dc.js",
-    "static/media/logo.png": "/static/media/logo.9f8681792ce27d0bcc5d.png",
-    "index.html": "/index.html",
-    "main.a196b43a.css.map": "/static/css/main.a196b43a.css.map",
-    "main.2fc562dc.js.map": "/static/js/main.2fc562dc.js.map"
+    "main.css": "/examon-ai-waitlist/static/css/main.a196b43a.css",
+    "main.js": "/examon-ai-waitlist/static/js/main.294d3506.js",
+    "static/media/logo.png": "/examon-ai-waitlist/static/media/logo.9f8681792ce27d0bcc5d.png",
+    "index.html": "/examon-ai-waitlist/index.html",
+    "main.a196b43a.css.map": "/examon-ai-waitlist/static/css/main.a196b43a.css.map",
+    "main.294d3506.js.map": "/examon-ai-waitlist/static/js/main.294d3506.js.map"
   },
   "entrypoints": [
     "static/css/main.a196b43a.css",
-    "static/js/main.2fc562dc.js"
+    "static/js/main.294d3506.js"
   ]
 }
